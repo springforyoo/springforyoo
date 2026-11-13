@@ -1,5 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=print(dbwlrma%2C%20profile)&fontSize=70&animation=twinkling)
-
+![Hi, I'm Jiwan Yoo](https://capsule-render.vercel.app/api?type=waving&section=header&text=Hi,%20I%27m%20Suhyeon+Kim&color=60e1f7&fontColor=073042&height=180&fontSize=60&animation=fadeIn)
 <h2>Jiwan Yoo(dbwlrma)</h2>
 
 <br />
